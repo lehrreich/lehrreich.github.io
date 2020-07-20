@@ -1,7 +1,5 @@
 /* Cascading stylesheet for the website */
 
-/* Text inside these asterisks and slashes are comments for human */
-
   a {
     color: blue; /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
@@ -30,7 +28,7 @@
    }
 
   h2 {
-    color: #075AAB;
+    color: Green;
     margin-bottom: 2.5rem;
     margin-top: 2.5rem;
     /* set the text color of to #075AAB here */
